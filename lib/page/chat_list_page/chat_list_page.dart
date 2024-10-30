@@ -5,14 +5,6 @@ import 'package:flutter_chat_gpt/page/chat_list_page/bloc/chat_list_bloc.dart';
 import 'package:flutter_chat_gpt/page/chat_list_page/widgets/chat_item.dart';
 import 'package:flutter_chat_gpt/page/chat_page/chat_page.dart';
 
-///
-/// flutter_chat_gpt
-/// File Name: chat_list_page
-/// Created by sujangmac
-///
-/// Description:
-///
-
 class ChatListPage extends StatelessWidget {
   const ChatListPage({super.key});
 

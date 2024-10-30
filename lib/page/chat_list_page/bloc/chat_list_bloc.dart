@@ -4,14 +4,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_chat_gpt/utils/chat_date_utils.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
-///
-/// flutter_chat_gpt
-/// File Name: chat_list_bloc
-/// Created by sujangmac
-///
-/// Description:
-///
-
 part 'chat_list_event.dart';
 part 'chat_list_state.dart';
 

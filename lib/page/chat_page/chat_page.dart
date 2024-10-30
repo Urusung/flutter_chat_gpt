@@ -8,13 +8,6 @@ import 'package:flutter_chat_gpt/page/chat_page/widgets/message_date_item.dart';
 import 'package:flutter_chat_gpt/page/chat_page/widgets/message_item.dart';
 import 'package:flutter_chat_gpt/utils/chat_date_utils.dart';
 
-///
-/// flutter_chat_gpt
-/// File Name: chat_page
-/// Created by sujangmac
-///
-/// Description:
-///
 class ChatPage extends StatefulWidget {
   final ChatItemModel chatItem;
   const ChatPage({super.key, required this.chatItem});

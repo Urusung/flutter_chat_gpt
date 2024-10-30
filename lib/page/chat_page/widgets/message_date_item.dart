@@ -1,13 +1,5 @@
 import 'package:flutter/material.dart';
 
-///
-/// flutter_chat_gpt
-/// File Name: message_date_item
-/// Created by sujangmac
-///
-/// Description:
-///
-
 class MessageDateItem extends StatelessWidget {
   final String date;
 

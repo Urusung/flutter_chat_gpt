@@ -1,11 +1,3 @@
-///
-/// flutter_chat_gpt
-/// File Name: chat_list_state
-/// Created by sujangmac
-///
-/// Description:
-///
-
 part of 'chat_list_bloc.dart';
 
 class ChatListState {

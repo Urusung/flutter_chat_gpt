@@ -3,13 +3,6 @@ import 'package:flutter_chat_gpt/hive_model/message_item_model.dart';
 import 'package:flutter_chat_gpt/hive_model/message_role_model.dart';
 import 'package:flutter_chat_gpt/utils/chat_date_utils.dart';
 
-///
-/// flutter_chat_gpt
-/// File Name: message_item
-/// Created by sujangmac
-///
-/// Description:
-///
 class MessageItem extends StatelessWidget {
   final MessageItemModel item;
   const MessageItem({super.key, required this.item});
