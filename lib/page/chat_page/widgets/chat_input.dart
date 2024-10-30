@@ -1,13 +1,5 @@
 import 'package:flutter/material.dart';
 
-///
-/// flutter_chat_gpt
-/// File Name: chat_input
-/// Created by sujangmac
-///
-/// Description:
-///
-
 class ChatInput extends StatefulWidget {
   final Function(String message) onSend;
   final bool isLoading;

@@ -1,12 +1,5 @@
 import 'package:intl/intl.dart';
 
-///
-/// flutter_chat_gpt
-/// File Name: chat_date_utils
-/// Created by sujangmac
-///
-/// Description:
-///
 class ChatDateUtils {
   // 채팅방 타이틀
   static String formatDate(DateTime dateTime) {

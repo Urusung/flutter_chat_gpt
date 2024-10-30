@@ -1,13 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_chat_gpt/hive_model/chat_item_model.dart';
 
-///
-/// flutter_chat_gpt
-/// File Name: chat_item
-/// Created by sujangmac
-///
-/// Description:
-///
 class ChatItem extends StatelessWidget {
   final ChatItemModel item;
   final VoidCallback onTapped;

@@ -2,14 +2,6 @@ import 'package:dio/dio.dart';
 import 'package:flutter_chat_gpt/api/model/completion.dart';
 import 'package:retrofit/retrofit.dart';
 
-///
-/// flutter_chat_gpt
-/// File Name: api_serivce
-/// Created by sujangmac
-///
-/// Description:
-///
-
 part 'api_service.g.dart';
 
 @RestApi(baseUrl: 'https://api.openai.com/v1')

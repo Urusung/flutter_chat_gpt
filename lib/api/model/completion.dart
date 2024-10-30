@@ -1,13 +1,5 @@
 import 'package:json_annotation/json_annotation.dart';
 
-///
-/// flutter_chat_gpt
-/// File Name: completion
-/// Created by sujangmac
-///
-/// Description:
-///
-
 part 'completion.g.dart';
 
 @JsonSerializable()

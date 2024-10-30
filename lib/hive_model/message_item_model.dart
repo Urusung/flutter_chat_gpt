@@ -1,13 +1,6 @@
 import 'package:flutter_chat_gpt/hive_model/message_role_model.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
-///
-/// flutter_chat_gpt
-/// File Name: message_item_model
-/// Created by sujangmac
-///
-/// Description:
-///
 part 'message_item_model.g.dart';
 
 @HiveType(typeId: 1)
